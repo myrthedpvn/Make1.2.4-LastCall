@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+"""
+ system info weergave
+ """
+
 # import
 import platform
 
