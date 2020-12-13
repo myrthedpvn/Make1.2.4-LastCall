@@ -13,7 +13,7 @@ __status__ = "Development"
 
 
 def pin():
-    os.system("pinout")                                                          #To show the pin and his status
+    os.system("pinout")                                                          #To show the pins
 
 
 if __name__ == '__main__':  # code to execute if called from command-line

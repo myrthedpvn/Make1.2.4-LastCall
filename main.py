@@ -6,7 +6,7 @@
 
 # import
 import password
-import IPConfig
+import IPconfig
 import linux
 import software_install
 import system_info
@@ -30,7 +30,7 @@ def options():
 
 #To see what the choice is and what the code needs to do then
     if choice == "1":
-        IPConfig.ip()
+        IPconfig.ip()
         print("\n")
         restart()
     elif choice == "2":
